@@ -1,4 +1,4 @@
-## Projeto base para o evento Bootcamp Imersão AWS com Docker que irei realizar no meu canal do Youtube.
+## Projeto base para o evento Bootcamp Imersão AWS com Docker.
 
 ### Período do evento: 17 a 20 de Janeiro/2022 (Online e ao vivo às 20h)
 
